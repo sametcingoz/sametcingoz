@@ -1,6 +1,7 @@
 # Hi, I'm Samet Cingöz
 
-I'am a Computer Engineering Student at Hacettepe University and I'am interested in Full Stack Development, Software Engineering, and AI-supported applications.  
+I'am a Computer Engineering Student at Hacettepe University and I'am interested in Full Stack Development, Software Engineering, 
+and AI-supported applications.  
 Location: Ankara, Türkiye  | Contact: sametcingoz1@gmail.com  | Links: [Linktree](https://linktr.ee/scingoz)
 
 ---
@@ -28,14 +29,6 @@ Location: Ankara, Türkiye  | Contact: sametcingoz1@gmail.com  | Links: [Linktre
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-### Data, Automation & AI
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge)
-![CSV Processing](https://img.shields.io/badge/CSV_Processing-217346?style=for-the-badge)
-![SMTP](https://img.shields.io/badge/SMTP_Automation-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-7952B3?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FFB000?style=for-the-badge)
 
 ### UI, Visualization & Styling
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
