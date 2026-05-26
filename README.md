@@ -64,37 +64,16 @@ My main interests are backend development, full stack applications, automation t
 ## Featured Projects
 
 ### Internship Workflow Management System
-Full stack internship management platform built with Java Spring Boot, React, MySQL, Spring Security, JWT, REST APIs, Flyway and Docker.  
-Includes RBAC dashboards, internship application workflows, company approval, document tracking and rule-based validation. 
+Full stack internship management platform built with Java Spring Boot, React, MySQL, JWT, Flyway and Docker, including RBAC dashboards, application workflows, company approval and document tracking.
 
 ### Green Carbon
-AI-supported carbon management SaaS MVP built with Next.js 15, React 19, TypeScript, Tailwind CSS, Shadcn UI, Recharts and Gemini-based AI logic.  
-Includes OCR-based bill processing, emission calculation, industrial asset analysis, waste tracking, benchmark dashboards and sustainability recommendations.
+AI-supported carbon management SaaS MVP built with Next.js, React, TypeScript, Tailwind CSS, Recharts and Gemini logic for OCR-based bill processing, emission calculation and sustainability recommendations.
 
 ### Internship Email Automation
-Python automation tool using web scraping, CSV processing, SMTP, dotenv configuration, logging and CV attachment support.  
-Includes dry-run mode, manual approval flow, duplicate prevention and safe sending delays for responsible internship outreach.
+Python automation tool using web scraping, CSV processing, SMTP, dotenv and logging to support responsible internship email outreach with dry-run, manual approval and duplicate prevention.
 
 ### Zen+ LED Visualization Application
-Desktop visualization application developed with Python and PyQt5 for real-time LED data monitoring and control.  
-Focused on Art-Net/DMX protocol, TCP/IP communication, recording/playback logic and 2D/3D visualization.
+Python and PyQt5 desktop application for real-time LED visualization, Art-Net/DMX communication, TCP/IP data listening, recording/playback and 2D/3D visualization.
 
 ### Academic Programming Projects
-Collection of Java, Python and C++ coursework projects from BBM102, BBM103 and BBM203.  
-Covers object-oriented programming, algorithmic problem solving, data structures and core programming fundamentals.
-
----
-
-## GitHub Stats
-
-![Samet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sametcingoz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sametcingoz&layout=compact&theme=tokyonight)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samet_Cingöz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-cingoz/)
-[![GitHub](https://img.shields.io/badge/GitHub-sametcingoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametcingoz)
-[![Email](https://img.shields.io/badge/Email-sametcingoz1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sametcingoz1@gmail.com)
+Collection of Java, Python and C++ coursework projects covering object-oriented programming, data structures, algorithms and core programming fundamentals.
