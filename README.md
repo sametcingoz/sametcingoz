@@ -63,17 +63,10 @@ My main interests are backend development, full stack applications, automation t
 
 ## Featured Projects
 
-### Internship Workflow Management System
-Full stack internship management platform built with Java Spring Boot, React, MySQL, JWT, Flyway and Docker, including RBAC dashboards, application workflows, company approval and document tracking.
-
-### Green Carbon
-AI-supported carbon management SaaS MVP built with Next.js, React, TypeScript, Tailwind CSS, Recharts and Gemini logic for OCR-based bill processing, emission calculation and sustainability recommendations.
-
-### Internship Email Automation
-Python automation tool using web scraping, CSV processing, SMTP, dotenv and logging to support responsible internship email outreach with dry-run, manual approval and duplicate prevention.
-
-### Zen+ LED Visualization Application
-Python and PyQt5 desktop application for real-time LED visualization, Art-Net/DMX communication, TCP/IP data listening, recording/playback and 2D/3D visualization.
-
-### Academic Programming Projects
-Collection of Java, Python and C++ coursework projects covering object-oriented programming, data structures, algorithms and core programming fundamentals.
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| Internship Workflow Management System | Java, Spring Boot, React, MySQL, JWT, Flyway, Docker | Full stack internship management platform with RBAC dashboards, application workflows, company approval and document tracking. |
+| Green Carbon | Next.js, React, TypeScript, Tailwind CSS, Recharts, Gemini | AI-supported carbon management SaaS MVP for OCR-based bill processing, emission calculation and sustainability recommendations. |
+| Internship Email Automation | Python, Web Scraping, CSV, SMTP, dotenv, Logging | Automation tool for responsible internship email outreach with dry-run mode, manual approval and duplicate prevention. |
+| Zen+ LED Visualization Application | Python, PyQt5, TCP/IP, Art-Net, DMX | Desktop application for real-time LED visualization, data listening, recording/playback and 2D/3D visualization. |
+| Academic Programming Projects | Java, Python, C++ | Coursework repositories covering OOP, data structures, algorithms and core programming fundamentals. |
