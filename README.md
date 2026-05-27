@@ -1,7 +1,6 @@
 # Hi, I'm Samet Cingöz
 
-I'am a Computer Engineering Student at Hacettepe University and 
-I'am interested in Full Stack Development, SW Engineering, and AI-supported applications. 
+I'am a CS Student at Hacettepe University and I'am interested in Full Stack Development, SW Engineering, and AI-supported applications. 
 Location: Ankara, Türkiye  | Contact: sametcingoz1@gmail.com  | Links: [Linktree](https://linktr.ee/scingoz)
 
 ---
